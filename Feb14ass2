@@ -5,3 +5,6 @@ while n>0:
     sum=sum+rem
     n=n//10
 print(sum)
+Output:
+enter value56789
+35
